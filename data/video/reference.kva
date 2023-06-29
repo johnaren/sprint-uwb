@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.0.9.5</Producer>
+  <OriginalFilename>reference</OriginalFilename>
+  <FullPath>C:\Users\johan\Downloads\bachelor\data\reference.mp4</FullPath>
+  <ImageSize>1920;864</ImageSize>
+  <Mirror>false</Mirror>
+  <AverageTimeStampsPerFrame>256</AverageTimeStampsPerFrame>
+  <CaptureFramerate>60</CaptureFramerate>
+  <UserFramerate>60</UserFramerate>
+  <FirstTimeStamp>0</FirstTimeStamp>
+  <SelectionStart>0</SelectionStart>
+  <TimeOrigin>0</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>100</Length>
+      <Segment>
+        <A>960;432</A>
+        <B>1060;432</B>
+      </Segment>
+      <Origin>0;100</Origin>
+      <Axis>LineHorizontal</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>00000000-0000-0000-0000-000000000000</CalibrationDrawingId>
+    <Unit Abbreviation="px">Pixels</Unit>
+  </Calibration>
+  <Keyframes>
+    <Keyframe id="69542bd6-bf0c-494b-830a-1de0e6d4a06b">
+      <Position UserTime="1.68">25856</Position>
+      <Title>1.68</Title>
+      <Drawings>
+        <Plane id="d7fdc321-6ad2-4282-83a3-ccfe20186730" name="Perspective grid 1">
+          <PointUpperLeft>313.5804;783.2894</PointUpperLeft>
+          <PointUpperRight>1779.602;784.6126</PointUpperRight>
+          <PointLowerRight>1889.421;805.7826</PointLowerRight>
+          <PointLowerLeft>228.9005;801.8132</PointLowerLeft>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;127;0</Value>
+            </Color>
+            <GridDivisions Key="divisions">
+              <Value>2</Value>
+            </GridDivisions>
+            <Toggle Key="perspective">
+              <Value>true</Value>
+              <Variant>Perspective</Variant>
+            </Toggle>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>false</UseDefault>
+            <AlwaysVisible>true</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Plane>
+        <GenericPosture id="84d06b38-37f1-4837-8bcb-d23df988e9a4" name="HorizontalDistance 1">
+          <ToolId>a30ba939-0852-4dcc-85c7-52eeff080b39</ToolId>
+          <Positions>
+            <Point>277.025;490.5598</Point>
+            <Point>277.025;643.7424</Point>
+            <Point>277.025;627.8476</Point>
+            <Point>277.025;790.2024</Point>
+            <Point>800.4205;627.8476</Point>
+          </Positions>
+          <DrawingStyle>
+            <Color Key="line color">
+              <Value>255;255;255;0</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>false</UseDefault>
+            <AlwaysVisible>true</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </GenericPosture>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="0bb16fa3-694a-40be-878d-711305780046">
+      <Position UserTime="1.78">27392</Position>
+      <Title>1.78</Title>
+    </Keyframe>
+    <Keyframe id="76f2afa7-84cf-47b8-bb4b-ffc6157d3213">
+      <Position UserTime="3.52">54016</Position>
+      <Title>3.52</Title>
+      <Drawings>
+        <Line id="2f5825b7-a505-4374-a999-734a6e6d514a" name="Line 1">
+          <Start>1826.775;794.3847</Start>
+          <End>1826.775;503.2921</End>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>1806.775;598.8384</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;255;0</Value>
+            </Color>
+            <LineSize Key="line size">
+              <Value>2</Value>
+            </LineSize>
+            <LineShape Key="line shape">
+              <Value>Solid</Value>
+            </LineShape>
+            <Arrows Key="arrows">
+              <Value>None</Value>
+            </Arrows>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>false</UseDefault>
+            <AlwaysVisible>true</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+          <Measure UserLength="291,09" UserLengthInvariant="291.09" UserUnitLength="px" />
+        </Line>
+      </Drawings>
+    </Keyframe>
+  </Keyframes>
+  <CoordinateSystem id="d321b33d-86ca-4d1d-a4ac-7b3f2debad72" name="Coordinate system 1">
+    <Visible>false</Visible>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <Trackability />
+</KinoveaVideoAnalysis>
